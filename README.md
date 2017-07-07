@@ -2,7 +2,8 @@
 A custom ImageView that can display as circle ，rectange and round rectange  simply that used as normal ImageView.
 
 # Usage
-
+-----
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/roc.cjm.shapeimageview"
@@ -36,3 +37,4 @@ A custom ImageView that can display as circle ，rectange and round rectange  si
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 </LinearLayout>
+```
