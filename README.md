@@ -1,7 +1,7 @@
 # ShapeImageView
 A custom ImageView that can display as circle ，rectange and round rectange  simply that used as normal ImageView.
 
-#Usage
+# Usage
 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
