@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShapeImageView">
+        <attr name="siv_border_width" format="dimension"/><!-- border width -->
+        <attr name="siv_border_color" format="color"/><!-- border color -->
+        <attr name="siv_border_overlay" format="boolean"/> <!-- shape type -->
+        <attr name="siv_round_radius_x" format="dimension"/>
+        <attr name="siv_round_radius_y" format="dimension"/>
+        <attr name="siv_shape_type" format="integer"/><!-- rectange or circle-->
+        <attr name="siv_background_color" format="color"/>
+    </declare-styleable>
+</resources>
